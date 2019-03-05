@@ -1,7 +1,4 @@
 # 이력서
-
-Blog : http://venusk.tstory.com 
-
 github : https://github.com/Venusk89
 
 
@@ -10,6 +7,7 @@ Brstorm
 * 2018/11 ~ 2019/02
 * DIBIDIBI_Hybrid Application 개발 및 배포
 * DIBIDIBI_Native Application 개발 중
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) Video Label
 
 KTM Techonology
 * 2015/12 ~ 2018/03
