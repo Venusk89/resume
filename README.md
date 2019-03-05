@@ -8,7 +8,8 @@ Brstorm
 * DIBIDIBI_Hybrid Application 개발 및 배포
 * DIBIDIBI_Native Application 개발 중
 
-<iframe width="640" height="360" src="https://youtu.be/SsD6hHFXDLI" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+(http://img.youtube.com/vi/SsD6hHFXDLI/0.jpg)(https://youtu.be/SsD6hHFXDLI?t=0s) 
+
 
 KTM Techonology
 * 2015/12 ~ 2018/03
