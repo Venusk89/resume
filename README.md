@@ -23,5 +23,8 @@ KTM Techonology
 # 활동
 패스트캠퍼스 - IOS 개발 School 7기
 *  2018/05 ~ 2018/08
-
+* Weather For Vacation
+-> https://youtu.be/ER9qXd22ZQQ
+* My Real Trip 숙소
+-> https://youtu.be/q0gqFsao0FM
 
