@@ -3,6 +3,11 @@ github : https://github.com/Venusk89
 
 
 # 경력
+Dothat
+* 2019/03 ~ 2019/08
+* 반려동물 SNS Application 개발
+  -> https://youtu.be/gspoevIhyIs
+
 Brstorm
 * 2018/11 ~ 2019/02
 * DIBIDIBI_Hybrid Application 개발 및 배포 
